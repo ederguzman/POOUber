@@ -1,0 +1,3 @@
+function Paymen(){
+    this.id;
+}
